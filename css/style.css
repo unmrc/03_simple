@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 100vh;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
+.figure {
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+.card {
+    text-align: center;
+}
+
+img {
+    margin-top: 15%;
+}
